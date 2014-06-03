@@ -26,4 +26,5 @@ public class HelloController {
     public @ResponseBody List<Person> personAll() {
         return personService.findAll();
     }
+    
 }
