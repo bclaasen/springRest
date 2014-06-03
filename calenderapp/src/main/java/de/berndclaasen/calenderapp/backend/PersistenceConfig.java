@@ -1,4 +1,4 @@
-package de.berndclaasen.calenderapp;
+package de.berndclaasen.calenderapp.backend;
 
 import java.util.Properties;
 import javax.sql.DataSource;

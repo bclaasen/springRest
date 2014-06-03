@@ -1,4 +1,4 @@
-package de.berndclaasen.calenderapp;
+package de.berndclaasen.calenderapp.backend.model;
 
 
 public class Greeting {

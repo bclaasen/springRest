@@ -1,9 +1,12 @@
-package de.berndclaasen.calenderapp;
+package de.berndclaasen.calenderapp.frontend;
 import java.util.concurrent.atomic.AtomicLong;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.ResponseBody;
+
+import de.berndclaasen.calenderapp.backend.model.Greeting;
 
 @Controller
 public class GreetingController {
