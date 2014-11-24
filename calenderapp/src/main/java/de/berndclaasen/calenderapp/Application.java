@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class Application {
 
     public static void main(String[] args) {
-    	System.out.println("Start");
+    	System.out.println("Starting...");
         SpringApplication.run(Application.class, args);
     }
 }
